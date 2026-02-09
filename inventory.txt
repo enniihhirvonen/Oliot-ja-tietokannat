@@ -1,0 +1,3 @@
+Cola;1.5
+Sprite;0.5
+Fanta;0.5
