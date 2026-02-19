@@ -49,7 +49,7 @@ class Menu:
                 self.showProducts()
         return None
     
-    def askChoice(self) -> int:
+    def askChoice(self) -> int:  # type: ignore
         try:
             choice = int(input("Your choice: "))
             return choice
